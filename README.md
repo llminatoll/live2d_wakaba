@@ -7,8 +7,7 @@
 
 [![Image from Gyazo](https://i.gyazo.com/5422c4d554dbfbdc54741c862f64d254.gif)](https://gyazo.com/5422c4d554dbfbdc54741c862f64d254)
 
-<a href="https://gyazo.com/278fd592c4986049727213bb55949ac6"><video alt="Video from Gyazo" width="590" autoplay muted loop playsinline><source src="https://i.gyazo.com/278fd592c4986049727213bb55949ac6.mp4" type="video/mp4" /></video></a>
-
+[わかばちゃんのYoutube動画はこちら！](https://www.youtube.com/watch?v=oOiOn-3AJuo)
 
 ## マンガでわかるWebデザイン・Git・GA・Docker
 マンガで楽しくWeb技術が学べる書籍『[わかばちゃんと学ぶ](https://www.amazon.co.jp/%E6%B9%8A%E5%B7%9D-%E3%81%82%E3%81%84/e/B01N8OK2UW/ref=dp_byline_cont_book_1)』シリーズ
@@ -18,4 +17,6 @@
 - [マンガでわかるDocker①](https://booth.pm/ja/items/825879)
 - [マンガでわかるDocker②](https://booth.pm/ja/items/1036317)
 - [ギャグマンガ：告白に学ぶHTTPステータスコード 〜エラー編〜](https://booth.pm/ja/items/1036373)
+
+[![Image from Gyazo](https://thumb.gyazo.com/thumb/200/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbWciOiJfOGI2ZjFmMjI0NGVkNWM1Y2YxMzgwZjFiNWYyOTcwYzUifQ.Q1YqemULd_XzdkoSTEAZMMIzCghiqxP1k8jI5uKan3A-gif.gif)](https://gyazo.com/278fd592c4986049727213bb55949ac6)
 
