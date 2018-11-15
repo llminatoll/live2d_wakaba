@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "wakaba4",
+	"model": "wakaba4.moc",
+	"textures": [
+		"wakaba4.2048/texture_00.png"
+	]
+}
