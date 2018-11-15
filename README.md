@@ -2,7 +2,7 @@
 - わかばちゃんのLive2Dモデルです
 - 個人の学習用途としてのみ利用可能です
  - 再配布・改変・商用利用は禁止させていただいております
- - 著作権は[湊川あい@llminatoll](https://twitter.com/llminatoll)に帰属します
+- 著作権は[湊川あい@llminatoll](https://twitter.com/llminatoll)に帰属します
  - 個人ブログ等に掲載する場合は必ず「(c)湊川あい」のクレジットと、このGitHubのリンクをつけてください
 
 [![Image from Gyazo](https://i.gyazo.com/5422c4d554dbfbdc54741c862f64d254.gif)](https://gyazo.com/5422c4d554dbfbdc54741c862f64d254)
