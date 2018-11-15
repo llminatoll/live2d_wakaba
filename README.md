@@ -8,9 +8,7 @@
 ## マンガでわかるWebデザイン・Git・GA・Docker
 マンガで楽しくWeb技術が学べる書籍『[わかばちゃんと学ぶ](https://www.amazon.co.jp/%E6%B9%8A%E5%B7%9D-%E3%81%82%E3%81%84/e/B01N8OK2UW/ref=dp_byline_cont_book_1)』シリーズ
 
-<a href="https://www.amazon.co.jp/%E6%B9%8A%E5%B7%9D-%E3%81%82%E3%81%84/e/B01N8OK2UW/ref=dp_byline_cont_book_1" target="_blank">
-<img alt="わかばちゃんと学ぶシリーズの書籍" src="https://img.esa.io/uploads/production/attachments/3412/2018/09/20/7092/156f1ce1-2412-4fc8-8ef5-f368ec098e42.png">
-</a>
+<a href="https://www.amazon.co.jp/%E6%B9%8A%E5%B7%9D-%E3%81%82%E3%81%84/e/B01N8OK2UW/ref=dp_byline_cont_book_1" target="_blank"><img alt="わかばちゃんと学ぶシリーズの書籍" src="https://img.esa.io/uploads/production/attachments/3412/2018/09/20/7092/156f1ce1-2412-4fc8-8ef5-f368ec098e42.png"></a>
 
 - [マンガでわかるDocker①](https://booth.pm/ja/items/825879)
 - [マンガでわかるDocker②](https://booth.pm/ja/items/1036317)
