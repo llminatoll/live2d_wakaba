@@ -5,6 +5,11 @@
  - 著作権は[湊川あい@llminatoll](https://twitter.com/llminatoll)に帰属します
  - 個人ブログ等に掲載する場合は必ず「(c)湊川あい」のクレジットと、このGitHubのリンクをつけてください
 
+[![Image from Gyazo](https://i.gyazo.com/5422c4d554dbfbdc54741c862f64d254.gif)](https://gyazo.com/5422c4d554dbfbdc54741c862f64d254)
+
+<a href="https://gyazo.com/278fd592c4986049727213bb55949ac6"><video alt="Video from Gyazo" width="590" autoplay muted loop playsinline><source src="https://i.gyazo.com/278fd592c4986049727213bb55949ac6.mp4" type="video/mp4" /></video></a>
+
+
 ## マンガでわかるWebデザイン・Git・GA・Docker
 マンガで楽しくWeb技術が学べる書籍『[わかばちゃんと学ぶ](https://www.amazon.co.jp/%E6%B9%8A%E5%B7%9D-%E3%81%82%E3%81%84/e/B01N8OK2UW/ref=dp_byline_cont_book_1)』シリーズ
 
